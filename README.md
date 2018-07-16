@@ -12,6 +12,10 @@ Feel free to join us on Slack! http://bloodhoundhq.slack.com/
 
 To install, run `sudo ./setup/install.sh` script or use the corresponding docker image `docker pull empireproject/empire`.
 
+then(Ubuntu 16.04 x64)
+
+    pip2.7 install flask pyopenssl iptools netifaces PyDispatcher zlib_wrapper macholib pefile xlrd xlutils dropbox pyminifier --user
+
 There's also a [quickstart here](http://www.powershellempire.com/?page_id=110) and full [documentation here](http://www.powershellempire.com/?page_id=83).
 
 ## Quickstart
